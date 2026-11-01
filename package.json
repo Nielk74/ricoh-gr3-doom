@@ -1,0 +1,10 @@
+{
+  "name": "ricoh-gr3-doom",
+  "private": true,
+  "type": "module",
+  "license": "GPL-2.0-only",
+  "engines": { "node": ">=24.5.0" },
+  "scripts": {
+    "test": "node --experimental-transform-types --test tests/*.test.mjs"
+  }
+}

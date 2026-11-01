@@ -1,0 +1,14 @@
+scratch/
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+*.bin
+*.wad
+*.elf
+*.o
+*.a
+*.exe
+*.dll
+*.zip
+PureDOOM.h
